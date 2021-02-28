@@ -21,7 +21,7 @@ navbar-links:
     - Network Attack Analysis: "Attack"
     - Credit Risk Models:
     - Spare Part Prediction:
-    - MicroRNA Analysis:
+    - MicroRNA Analysis: "MicroRNA"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
