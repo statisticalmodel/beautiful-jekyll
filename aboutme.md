@@ -12,9 +12,10 @@ My name is Emelie Wahlström. I've been involved in several Datan Science projec
 + M.Sc in Statistics and Machine Learning, Linköping University
 + B.Sc in Statistics and Data Analysis, Linköping University
 + Industrial Engineering & Management - International M.Sc, Japanese
-+ Certified StyrelseAkademien Board Work
-+ Certified Elements of AI
 + Exponentional Thinking, Singularity University, NASA Research Park, Silicon Valley
++ Certified - StyrelseAkademien Board Work
++ Certified - Elements of AI
+
 
 
 ### Experience
