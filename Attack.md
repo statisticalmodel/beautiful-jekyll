@@ -3,6 +3,9 @@ layout: page
 title: Network Attack Analysis
 subtitle:  Analysis of Attack data in Networks
 ---
+### My Role
+Data Scientist 
+
 ### Background
 Internet and its number of users is growing each year, with it also the number
 attacks and security exploits grows. Networks are prone to network attracts and
