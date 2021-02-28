@@ -1,0 +1,67 @@
+---
+layout: page
+title: MicroRNA Analysis
+subtitle:  MicroRNA Analysis Primary Tumors & Metastases in Breast Cancer
+---
+### My Role
+Data Scientist 
+
+### Background
+Metastasis is the primary reason to mortality for most cancers, causing 90% of all cancer deaths. 
+Breast cancer is considered to be an incurable disease, and although surgery in combination with 
+general oncological treatment prolongs the survival in metastatic cancer, there are many patients 
+who cannot be helped today. The reason is still unknown, why some tumors metastasis whereas others 
+do not. A deeper understanding of the metastatic process would be most valuable to improve and 
+ndividualize treatment in this patient group.
+## 
+MicroRNAs (miRNAs) are small, ~19-22 nucleotides, non-coding single stranded RNA molecules. miRNAs are found in both plants and animals, and are thought to regulate diverse biological processes such as cell proliferation, apoptosis and cell differentiation. miRNA deregulation is correlated to human cancers, with potential roles of tumor suppressors or oncogenes. This subgroup of miRNAs associated with cancer, is often referred to as ‘oncomirs’.
+
+
+### Data
++ Botnet traffic dataset from IoT networks
++ The dataset suffers from imbalance. _A dataset is considered to be imbalanced when 
+the distribution of the classes differs substantially and where the classes of 
+interest are rare. This can have the consequence of generating biased results (Fathi Ganji, 2010)._
++ The dataset consist of 1 million observations on 35 attributes from
+network traffic. 
++ The data has seven pattern classes, one Normal and six attack classes. 
+
+### Attack classes include
+Data Exfiltration, HTTP, Keylogging, OS Fingerprint, Service Scan and TCP attacks.
+
+### Model Used: Random Forest together with Feature Engineered variables
+Random Forest has managed to predict network attacks well, Rama et al. used Random
+Forest was to predict attacks in the open sorce NSL-KDD dataset (Rama R, 2017)
+
+The model was built on 500 trees with four variables tried in each
+split. The model has a _training_ accuracy of 100% and an OOB estimate error of
+0.01%.
+### ![Random Forrest simple](https://user-images.githubusercontent.com/15735938/109425756-372df900-79ea-11eb-9b35-3af5d6e10080.png)
+Picture from: Dr. Ganapathi Pulipaka
+
+
+
+### Confusion Matrix
+<img width="801" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/15735938/109419740-42276000-79cf-11eb-9d4c-4b56ad2b4400.png">
+
+The accuracy of the model is 99.98% and the kappa accuracy is 99.96%. The model achieves a sensitivity score of
+over 99% for all the classes except for Data Exfiltration and Keylogging. These
+two classes are the smallest within the data, and even though this is a very good
+model, it would benefit from having more observations especially for the Data
+Exfiltration class. The model achieves a high specificity score for all classes. The
+lowest F1 score is found for the Data Exfiltration class and all the other classes
+have a very high F1 score. 
+
+#### Other
+Mean Decrease Accuracy plot was used to understand which variables that influenced the models most. 
+
+### Construction of Feature engineered variable
+<img width="615" alt="feature_engineere" src="https://user-images.githubusercontent.com/15735938/109419413-a0534380-79cd-11eb-9fa9-dbcb80bd9e6c.png">
+
+
+## Findings 
+A set of important variables to identify the network attacks was found. Feature engineered variables properly summarize the behaviours of the
+network from the raw network data with good result.
+The model managed to classigy all TCP attacks correctly.
+There where not enough observations to correctly learn the behaviour for Data Exfiltration.
+The model can be used to detect HTTP, Keylogging, OS Fingerprint, Service Scan and TCP attacks.
