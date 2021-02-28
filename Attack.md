@@ -22,10 +22,11 @@ interest are rare. This can have the consequence of generating biased results (F
 + The dataset consist of 1 million observations on 35 attributes from
 network traffic. 
 + The data has seven pattern classes, one Normal and six attack classes. 
-## Attacik classes included:
+### Attacik classes included:
 Data, Exfiltration, HTTP, Keylogging, OS Fingerprint, Service Scan and TCP attacks.
 
-<img width="666" alt="Feature_engineered" src="https://user-images.githubusercontent.com/15735938/109418938-20c47500-79cb-11eb-9916-2c977f8efc4f.png">
+### Construction of Feature engineered variable
+<img width="615" alt="feature_engineere" src="https://user-images.githubusercontent.com/15735938/109419413-a0534380-79cd-11eb-9fa9-dbcb80bd9e6c.png">
 
 ### Model Used
 Random Forest together with Feature Engineered variables.
