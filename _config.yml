@@ -20,8 +20,9 @@ navbar-links:
     - Data Science Campus: "Campus"
     - Network Attack Analysis: "Attack"
     - Credit Risk Models: "Credit_Risk"
-    - Spare Part Prediction:
+   # - Spare Part Prediction:
     - MicroRNA Analysis: "MicroRNA"
+    - Robot Sensor: "Robot"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
