@@ -11,7 +11,7 @@ During Covid-19 we needed to rethink our business. We were running our Campus, a
 
 ### My Responsibilities during Release of online Campus: 
 ##### - Responsible for all lecture being created
-##### - Responsible for materials produced and uploaded to Collegial platform, covering:
+##### - Responsible for material produced and uploaded to Collegial platform, covering
 -	Lectures
 -	Self-study material
 -	Videos
