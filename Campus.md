@@ -8,7 +8,10 @@ Project Manager
 Strengthening companies to be data-driven organizations.
 
 ### Background
-We where asked to develop courses for the Combient Walenberg sphere of companies. The courses are enabeling the companies to **Become Data Driven from the inside**. The campus is highly interactive and participants work hands on with their company data. The participants get to work on a company specific use case with the help and guidence from our mentors. 
+We where asked to develop courses for the Combient Walenberg sphere of companies. The courses are enabeling the companies to **Become Data Driven from the inside**. The campus is highly interactive and participants work hands on with their company data. The participants get to work on a company specific use case with the help and guidence from our mentors. The course is given on our online course platform and contains: instruction videos, selfstudy literature, knowledge assessment quiz, mentor meetings, reflections on how to apply this to your job, weekly assignemnts. On top of this there are a weekly live lecture and mentor meeting. 
+Below are a screenshot of the platform: 
+<img width="1304" alt="2021-02-28_17-11-32" src="https://user-images.githubusercontent.com/15735938/109425399-5c216c80-79e8-11eb-8dbc-e40cb1e6cf1a.png">
+
 
 ### Course Content
 #### Tools
