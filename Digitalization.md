@@ -24,4 +24,3 @@ During Covid-19 we needed to rethink our business. We were running our Campus, a
 -	Question for team project
 -	Question for on-the-job possibilities
 -	Upload all of the above to Collegial platform
-
