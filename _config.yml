@@ -6,19 +6,23 @@
 # --- Required options --- #
 
 # Name of website
-title: Emelie
+title: Emelie Wahlström
 
 # Your name to show in the footer
-author: Some Person
+author: Emelie Wahlström, Data Scientist
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Transformation Lead Digitalizing: "Transformation"
+    - Data Science Campus: "Campus"
+    - Attack Security Analysis: "Attack"
+    - Credit Risk Models:
+    - Spare Part Prediction:
+    - MicroRNA Analysis:
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
