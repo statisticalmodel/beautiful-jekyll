@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Campus
+title: Data Science Campus
 subtitle: Strengthening companies to be data-driven
 ---
 
