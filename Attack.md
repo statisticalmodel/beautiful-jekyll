@@ -3,7 +3,7 @@ layout: page
 title: Attack Secutity Analysis
 subtitle:  Analysis of Attack data in Networks
 ---
-**Background**
+### Background
 Internet and its number of users is growing each year, with it also the number
 attacks and security exploits grows. Networks are prone to network attracts and
 since the growing number of users and increasing availability of tools for
@@ -14,7 +14,7 @@ is a need to develop better intrusion detection models.
 According to IBM the average cost of a data breach is USD 3.92 million in the year of 2019 (IBM, 2019).
 
 
-**Data** 
+### Data
 + Botnet traffic dataset from IoT networks
 + The dataset suffers from imbalance. A dataset is considered to be imbalanced when 
 the distribution of the classes differs substantially and where the classes of 
@@ -22,12 +22,13 @@ interest are rare. This can have the consequence of generating biased results (F
 + The dataset consist of 1 million observations on 35 attributes from
 network traffic. 
 + The data has seven pattern classes, one Normal and six attack classes. 
-**Attacik classes included:**
+## Attacik classes included:
 Data, Exfiltration, HTTP, Keylogging, OS Fingerprint, Service Scan and TCP attacks.
 
 <img width="666" alt="Feature_engineered" src="https://user-images.githubusercontent.com/15735938/109418938-20c47500-79cb-11eb-9916-2c977f8efc4f.png">
 
-Model Used: Random Forest together with Feature Engineered variables.
+### Model Used
+Random Forest together with Feature Engineered variables.
 Random Forest has managed to predict network attacks well such as in Rama et al. where Random
 Forest was used to predict attacks in the NSL-KDD dataset (Rama R, 2017)
 
@@ -44,7 +45,7 @@ have a very high F1 score.
 
 Used Mean Decrease Accuracy plot to understand which variables that influenced the models the most. 
 
-Findings: 
+### Findings 
 A set of important variables to identify the network attacks was found. Feature engineered variables properly summarize the behaviours of the
 network from the raw network data with good result.
 The model managed to classigy the TCP attacks correctly.
