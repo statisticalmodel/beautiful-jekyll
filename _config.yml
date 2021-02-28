@@ -22,7 +22,7 @@ navbar-links:
     - Credit Risk Models: "Credit_Risk"
    # - Spare Part Prediction:
     - MicroRNA Analysis: "MicroRNA"
-    - Robot Sensor: "Robot"
+    - Obstacle Avoidance Robot: "Robot"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
