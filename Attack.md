@@ -36,6 +36,10 @@ Forest was to predict attacks in the open sorce NSL-KDD dataset (Rama R, 2017)
 The model was built on 500 trees with four variables tried in each
 split. The model has a _training_ accuracy of 100% and an OOB estimate error of
 0.01%.
+### ![Random Forrest simple](https://user-images.githubusercontent.com/15735938/109425756-372df900-79ea-11eb-9b35-3af5d6e10080.png)
+Picture from: Dr. Ganapathi Pulipaka
+
+
 
 ### Confusion Matrix
 <img width="801" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/15735938/109419740-42276000-79cf-11eb-9d4c-4b56ad2b4400.png">
