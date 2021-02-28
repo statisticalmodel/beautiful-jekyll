@@ -6,7 +6,6 @@ subtitle: Strengthening companies to be data-driven
 
 ### My Role
 Project Manager
-<p>Strengthening companies to be data-driven organizations.</p>
 
 ### Background
 We where asked to develop courses for the Combient Walenberg companies. The courses are enabeling the companies to **_Strengthening companies to be Data Driven from the inside_**. The campus is a highly interactive course where participants work hands on with their company data. The participants get to work on a company specific use case with the help and guidence from our mentors. The course is given online on our course platform. The course contains: instruction videos, selfstudy literature, knowledge assessment quiz, reflections on how to apply this to your job and weekly assignemnts. On top of this there are weekly live lecture and mentor meetings. The usecases the participants are working on is real use casese from their company. The goal is to Strengthening companies to be data-driven organizations
