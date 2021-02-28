@@ -10,8 +10,8 @@ During Covid-19 we needed to rethink our business. We were running our Campus, a
 - In the end of the course we gave participants the opportunity to mingle with each other by using the Gather platform
 
 ### My Responsibilities during Release of online Campus
-Responsible for material produced and uploaded to Collegial platform
--	Lectures, the lectures are created by our Data Scientists
+- **Responsible for material produced and uploaded to Collegial platform**
+-	Lectures
 -	Self-study material
 -	Videos
 -	Assignments for notebooks
