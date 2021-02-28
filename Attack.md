@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Attack Secutity Analysis
+title: Network Attack Analysis
 subtitle:  Analysis of Attack data in Networks
 ---
 ### Background
