@@ -19,7 +19,7 @@ navbar-links:
     - Digital-ization Lead: "Digitalization"
     - Data Science Campus: "Campus"
     - Network Attack Analysis: "Attack"
-    - Credit Risk Models:
+    - Credit Risk Models: "Credit_Risk"
     - Spare Part Prediction:
     - MicroRNA Analysis: "MicroRNA"
 #  Author's home: "https://deanattali.com"
