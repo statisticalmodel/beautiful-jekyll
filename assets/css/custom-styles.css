@@ -1,8 +1,8 @@
 ---
 layout: null
 ---
-
-@import url("pygment_highlights.css");
+@import url(https://use.typekit.net/ugy6ubw.css);
+/*@import url("pygment_highlights.css");*/
 
 /* --- General --- */
 
@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: proxima-nova, sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
