@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Campus
-subtitle:  Data Sciense Campus
+title: Data Sciense Campus
+subtitle: Strengthening companies to be data-driven organizations
 ---
 
 ### My Role
