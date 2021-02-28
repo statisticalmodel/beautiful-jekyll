@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:  Data Scientist/Project Manager/Tireless Traveller
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Emelie Wahlström. I've been involved in several Datan Science projects both as Project Management and Data Scientist. I enojoy doing both hands-on and advisory work. I like solving business problems with Advanced Analytics & Machine Learning with focus on deliverable and business value. A project where I got to do both a PM and a DS was when developing a 12 week long Data Science course and then taking it online during Covid-19. I'm passionate about new technologies and love to travel.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
++ M.Sc in Statistics and Machine Learning, Linköping University
++ B.Sc in Statistics and Data Analysis, Linköping University
++ Industrial Engineering & Management - International M.Sc, Japanese
++ Certified StyrelseAkademien Board Work
++ Certified Elements of AI
+
+
+### Experience
+
++ Technical Partner Enablement, Combient, Stockholm, Sweden
++ Data Scientist, Combient, Stockholm, Sweden
++ Credit Risk Analyst, Länsförsäkringar, Stockholm, Sweden 
++ Teacher Assistant, Linköping University, Linköping, Sweden
++ Chairman, board for the Statistics Program, Linköping, Sweden
++ Board Member, Institute of Data Analysis, Linköping University, Sweden
