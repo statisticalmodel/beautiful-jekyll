@@ -12,6 +12,14 @@ I wanted to build a robot that can avoid obsticals, by using sensor
 
 ### Result
 
-https://user-images.githubusercontent.com/15735938/109435654-bb4ca480-7a1b-11eb-948c-54c3a67f976e.mp4
 
 
+
+
+https://user-images.githubusercontent.com/15735938/109435833-b50af800-7a1c-11eb-868e-d291e8b3bc3d.mp4
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://user-images.githubusercontent.com/15735938/109435833-b50af800-7a1c-11eb-868e-d291e8b3bc3d.mp4" type="video/mp4">
+  </video>
+</figure>
