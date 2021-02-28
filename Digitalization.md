@@ -9,10 +9,9 @@ During Covid-19 we needed to rethink our business. We were running our Campus, a
 - We created our own Jupyter cluster called CodeHub
 - In the end of the course we gave participants the opportunity to mingle with each other by using the Gather platform
 
-### My Responsibilities during Release of online Campus: 
-##### - Responsible for all lecture being created
-##### - Responsible for material produced and uploaded to Collegial platform, covering
--	Lectures
+### My Responsibilities during Release of online Campus
+Responsible for material produced and uploaded to Collegial platform
+-	Lectures, the lectures are created by our Data Scientists
 -	Self-study material
 -	Videos
 -	Assignments for notebooks
