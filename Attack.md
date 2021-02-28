@@ -45,7 +45,8 @@ Exfiltration class. The model achieves a high specificity score for all classes.
 lowest F1 score is found for the Data Exfiltration class and all the other classes
 have a very high F1 score. 
 
-Used Mean Decrease Accuracy plot to understand which variables that influenced the models the most. 
+#### Other
+Mean Decrease Accuracy plot was used to understand which variables that influenced the models most. 
 
 ### Construction of Feature engineered variable
 <img width="615" alt="feature_engineere" src="https://user-images.githubusercontent.com/15735938/109419413-a0534380-79cd-11eb-9fa9-dbcb80bd9e6c.png">
