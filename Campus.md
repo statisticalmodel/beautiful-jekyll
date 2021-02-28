@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Sciense Campus
-subtitle: Strengthening companies to be data-driven organizations
+title: Campus
+subtitle: Data Sciense Campus
 ---
 
 ### My Role
@@ -9,7 +9,7 @@ Project Manager
 <p>Strengthening companies to be data-driven organizations.</p>
 
 ### Background
-We where asked to develop courses for the Combient Walenberg companies. The courses are enabeling the companies to **_Become Data Driven from the inside_**. The campus is a highly interactive course where participants work hands on with their company data. The participants get to work on a company specific use case with the help and guidence from our mentors. The course is given online on our course platform. The course contains: instruction videos, selfstudy literature, knowledge assessment quiz, reflections on how to apply this to your job and weekly assignemnts. On top of this there are weekly live lecture and mentor meetings. The usecases the participants are working on is real use casese from their company.
+We where asked to develop courses for the Combient Walenberg companies. The courses are enabeling the companies to **_Strengthening companies to be Data Driven from the inside_**. The campus is a highly interactive course where participants work hands on with their company data. The participants get to work on a company specific use case with the help and guidence from our mentors. The course is given online on our course platform. The course contains: instruction videos, selfstudy literature, knowledge assessment quiz, reflections on how to apply this to your job and weekly assignemnts. On top of this there are weekly live lecture and mentor meetings. The usecases the participants are working on is real use casese from their company. The goal is to Strengthening companies to be data-driven organizations
 Below are a screenshot of the platform: 
 <img width="1304" alt="2021-02-28_17-11-32" src="https://user-images.githubusercontent.com/15735938/109425399-5c216c80-79e8-11eb-8dbc-e40cb1e6cf1a.png">
 
