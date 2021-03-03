@@ -16,19 +16,16 @@ author: Emelie Wahlström, Data Scientist
 navbar-links:
   About: "aboutme"
   Data Science:
-    - Digital-ization Lead: "Digitalization"
-    - Data Science Campus: "Campus"
     - Network Attack Analysis: "Attack"
     - Credit Risk Models: "Credit_Risk"
     - Data Bias: "Bias"
    # - Spare Part Prediction:
     - MicroRNA Analysis: "MicroRNA"
-    - Obstacle Avoidance Robot: "Robot"
 #  Author's home: "https://deanattali.com"
   Project Manager:
-    - Digital-ization Lead: "Digitalization"
+    - Digitalization Lead: "Digitalization"
     - Data Science Campus: "Campus"
-  Other:
+  Spare Time:
     - Obstacle Avoidance Robot: "Robot"
 
 # --- Logo --- #
