@@ -4,7 +4,7 @@ title: Hackathon Winner
 subtitle: Analysis of Discrimination Biases within Data
 ---
 ### My Role
-Data Scientist during Combient Mix Hackathon
+Data Scientist
 
 ### Background
 During a Combient Mix Hackathon I worked in a group together with Data Scientists Nina Novak and Rahul Biswas to find a solution to discrimination biases 
