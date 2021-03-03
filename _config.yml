@@ -20,6 +20,7 @@ navbar-links:
     - Data Science Campus: "Campus"
     - Network Attack Analysis: "Attack"
     - Credit Risk Models: "Credit_Risk"
+    - Data Bias: "Bias"
    # - Spare Part Prediction:
     - MicroRNA Analysis: "MicroRNA"
     - Obstacle Avoidance Robot: "Robot"
