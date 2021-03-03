@@ -27,7 +27,7 @@ over data-input to ensure that data is diverse and accurate. If you use this da
 In the [infamous event of 2015](https://www.wsj.com/articles/BL-DGB-42522), Google built a classification model that classified African-Americans as gorillas. This was not the 
 work of trolls, it was the work of a biased dataset.
 **Data can not understand cultural sensitivity or what is offensive to us as humans.**
-\
+
 
 ### Solution
 We built a tool/dashboard to help Data Scientist to be aware about the discrimination bias within a dataset. Biases that otherwise would be hard to find.  
@@ -50,3 +50,4 @@ We used two data sets to test our tool:
 - https://blog.dataiku.com/explaining-bias-in-your-data
 - Proxies: https://papers.nips.cc/paper/2018/file/6cd9313ed34ef58bad3fdd504355e72c-Paper.pdf
 - Proxies (2): https://arxiv.org/pdf/1707.08120.pdf
+- https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598
