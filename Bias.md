@@ -24,11 +24,10 @@ This pictures is not a divers enough representation of grandmas on a global scal
 over data-input to ensure that data is diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Do you know that it is not biased?
 \
 \
-In the infamous event of 2015, Google built a classification model that classified [African-Americans as gorillas](https://www.wsj.com/articles/BL-DGB-42522). This was not the 
+In the [infamous event of 2015](https://www.wsj.com/articles/BL-DGB-42522), Google built a classification model that classified African-Americans as gorillas. This was not the 
 work of trolls, it was the work of a biased dataset.
 **Data can not understand cultural sensitivity or what is offensive to us as humans.**
 \
-Article: https://www.wsj.com/articles/BL-DGB-42522
 
 #### Solution
 We built a tool/dashboard to help Data Scientist to be aware about the discrimination bias within a dataset. Biases that otherwise would be hard to find.  
