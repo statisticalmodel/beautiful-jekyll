@@ -18,11 +18,13 @@ In the beginning of data usage, we all hoped that we could stop making biased as
 <img width="1427" alt="grandma" src="https://user-images.githubusercontent.com/15735938/109858299-ede4e000-7c5b-11eb-8648-b9fd9bfedf75.png">
 
 This picture is not a diversity enough representation of grandmas on a global scale. This is because there is no governance 
-over data-input to ensure that it's diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Do you know that it is not in fact biased?
-<br/>
+over data-input to ensure that it's diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Do you know that it is not biased?
+\
+\
 In the infamous event of 2015, Google built a classification model that classified African-Americans as gorillas. This was not the 
 work of trolls, it was the work of a biased dataset.
 **Data can not understand cultural sensitivity or what is offensive to us as humans.**
+\
 Article: https://www.wsj.com/articles/BL-DGB-42522
 
 #### Solution
