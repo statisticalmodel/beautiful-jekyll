@@ -12,9 +12,6 @@ I wanted to build a robot that can avoid obsticals, by using sensor
 
 ### Result
 
-Video coming soon ^_^
-
-
 
 <!-- blank line -->
 <figure class="video_container">
