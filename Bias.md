@@ -12,16 +12,19 @@ within datasets.
 
 ### Pitch
 Any discrimination based on any ground such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, 
-political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation shall be prohibited. 
-In the beginning of data usage, we all hoped that we could stop making biased assumptions. We hoped that data would guide us to a more just future. We have come to realize that it is not that easy. Datasets can be as biased as humans. If you try googling Grandma, this is what you will find. 
+political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation shall be prohibited.
+\
+In the beginning of data usage, we all hoped that we could stop making biased assumptions. We hoped that data would guide us to a more just future. We have come to realize that it is not that easy. Datasets can be as biased as humans. 
+\
+If you google Grandma, this is what you will find. 
 
 <img width="1427" alt="grandma" src="https://user-images.githubusercontent.com/15735938/109858299-ede4e000-7c5b-11eb-8648-b9fd9bfedf75.png">
 
-This picture is not a diversity enough representation of grandmas on a global scale. This is because there is no governance 
-over data-input to ensure that it's diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Do you know that it is not biased?
+This pictures is not a divers enough representation of grandmas on a global scale. A reason for this is that there is no governance 
+over data-input to ensure that data is diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Do you know that it is not biased?
 \
 \
-In the infamous event of 2015, Google built a classification model that classified African-Americans as gorillas. This was not the 
+In the infamous event of 2015, Google built a classification model that classified [African-Americans as gorillas](https://www.wsj.com/articles/BL-DGB-42522). This was not the 
 work of trolls, it was the work of a biased dataset.
 **Data can not understand cultural sensitivity or what is offensive to us as humans.**
 \
