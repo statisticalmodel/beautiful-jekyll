@@ -15,7 +15,7 @@ author: Emelie Wahlström, Data Scientist
 
 navbar-links:
   About: "aboutme"
-  Projects:
+  Data Science:
     - Digital-ization Lead: "Digitalization"
     - Data Science Campus: "Campus"
     - Network Attack Analysis: "Attack"
@@ -25,6 +25,11 @@ navbar-links:
     - MicroRNA Analysis: "MicroRNA"
     - Obstacle Avoidance Robot: "Robot"
 #  Author's home: "https://deanattali.com"
+  Project Manager:
+    - Digital-ization Lead: "Digitalization"
+    - Data Science Campus: "Campus"
+  Other:
+    - Obstacle Avoidance Robot: "Robot"
 
 # --- Logo --- #
 
