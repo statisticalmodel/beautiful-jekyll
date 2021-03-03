@@ -38,7 +38,9 @@ We used two data sets to test our tool:
 
 ## Screenshots from Dashboard
 ![Page 1](https://user-images.githubusercontent.com/15735938/109855595-c2acc180-7c58-11eb-8fd4-d20b416ce146.jpg)
+\
 <img width="2000" alt="select attributes" src="https://user-images.githubusercontent.com/15735938/109855639-d5bf9180-7c58-11eb-95e4-aee594945193.png">
+\
 <img width="994" alt="dashboard" src="https://user-images.githubusercontent.com/15735938/109858397-0f45cc00-7c5c-11eb-8919-0ea7983d28cf.png">
 
 
