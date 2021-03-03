@@ -25,6 +25,7 @@ navbar-links:
   Project Manager:
     - Digitalization Lead: "Digitalization"
     - Data Science Campus: "Campus"
+    #- Turbocharger: "Turbocharger"
   Spare Time:
     - Obstacle Avoidance Robot: "Robot"
 
