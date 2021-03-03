@@ -19,7 +19,7 @@ In the beginning of data usage, we all hoped that we could stop making biased as
 
 This picture is not a diversity enough representation of grandmas on a global scale. This is because there is no governance 
 over data-input to ensure that it's diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Do you know that it is not in fact biased?
-####
+#
 In the infamous event of 2015, Google built a classification model that classified African-Americans as gorillas. This was not the 
 work of trolls, it was the work of a biased dataset.
 **Data can not understand cultural sensitivity or what is offensive to us as humans.**
