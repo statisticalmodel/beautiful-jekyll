@@ -29,7 +29,7 @@ work of trolls, it was the work of a biased dataset.
 **Data can not understand cultural sensitivity or what is offensive to us as humans.**
 \
 
-#### Solution
+### Solution
 We built a tool/dashboard to help Data Scientist to be aware about the discrimination bias within a dataset. Biases that otherwise would be hard to find.  
 We used two data sets to test our tool:
 + Kaggle Heart Failur Data https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
