@@ -64,4 +64,4 @@ A set of important variables to identify the network attacks was found. Feature 
 network from the raw network data with good result.
 The model managed to classigy all TCP attacks correctly.
 There where not enough observations to correctly learn the behaviour for Data Exfiltration.
-The model can be used to detect HTTP, Keylogging, OS Fingerprint, Service Scan and TCP attacks.
+The model can be used to detect HTTP, Keylogging, OS Fingerprint, Service Scan and TCP attacks. 
