@@ -4,7 +4,7 @@ title: Transformation/Transformation lead
 subtitle: 
 ---
 
-During Covid-19 we needed to rethink our business. We were running our Campus, a Data Science course with on premises lectures. We decided to digitize our Campus and create an online platform for the course. **I was chosen as project lead for this initiative.** I was choosen for my deep knowledge of our organization and a proven history of getting things done. 
+During Covid-19 we needed to rethink our business. We were running our Campus, a Data Science course with on premises lectures. We decided to digitize our Campus and create an online platform for the course. **I was chosen as project lead for this initiative.** I was chosen for my deep knowledge of our organization and a proven history of getting things done. 
 - We chose an online learning platform from the company Collegial.
 - We created our own Jupyter cluster called CodeHub
 - In the end of the course we gave participants the opportunity to mingle with each other by using the Gather platform
