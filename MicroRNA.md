@@ -7,12 +7,7 @@ subtitle:  MicroRNA Analysis Primary Tumors & Metastases in Breast Cancer
 Data Scientist 
 
 ### Background
-Metastasis is the primary reason to mortality for most cancers, causing 90% of all cancer deaths. 
-Breast cancer is considered to be an incurable disease, and although surgery in combination with 
-general oncological treatment prolongs the survival in metastatic cancer, there are many patients 
-who cannot be helped today. The reason is still unknown, why some tumors metastasis whereas others 
-do not. A deeper understanding of the metastatic process would be most valuable to improve and 
-ndividualize treatment in this patient group.
+Metastasis is the primary reason for mortality in most cancers, causing 90% of all cancer deaths. Breast cancer is considered to be an incurable disease, and although surgery in combination with general oncological treatment prolongs the survival in metastatic cancer, there are many patients who cannot be helped today. The reason is still unknown, why some tumors metastasis whereas others do not. A deeper understanding of the metastatic process would be most valuable to improve and individualized treatment in this patient group.
  
 **MicroRNAs** (miRNAs) are small, ~19-22 nucleotides, non-coding single stranded RNA molecules. 
 miRNAs are found in both plants and animals, and are thought to regulate diverse biological processes 
@@ -26,7 +21,7 @@ and to evaluate the differences between metastatic and non-metastatic primary tu
 therapeutic targets and contribute to the understanding of the mechanisms behind metastasis.
 
 ### Data
-Microdisected epithelial cells from normal tissue, primary tumor and liver metastases from breast cancer patients have been 
+Microdissected epithelial cells from normal tissue, primary tumor and liver metastases from breast cancer patients have been 
 analyzed with microRNA arrays. The raw data material consists of 381 miRNAs, for three different tissue types, from 11 individuals.
 
 <img width="841" alt="2021-02-28_22-03-54" src="https://user-images.githubusercontent.com/15735938/109433491-e1207c00-7a10-11eb-9e22-116739447d84.png">
