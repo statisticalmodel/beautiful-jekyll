@@ -20,9 +20,7 @@ If you google Grandma, this is what you will find.
 
 <img width="1427" alt="grandma" src="https://user-images.githubusercontent.com/15735938/109858299-ede4e000-7c5b-11eb-8648-b9fd9bfedf75.png">
 
-This pictures is not a divers enough representation of grandmas on a global scale. A reason for this is that there is no governance 
-over data-input to ensure that data is diverse and accurate. If you use this data to make decisions about grandmas, your results are going to be biased. This is a clear example, but what about your data? Hopefully you know but too often you cannot because you don’t even know what all the columns mean in the first place. 
-Do you know that it is not biased?
+These pictures are not a diverse enough representation of grandmas on a global scale. A reason for this is that there is no governance over data-input to ensure that data is diverse and accurate. If you use this data to make decisions about grandmas, your results are going to become biased. In this example the problem is very clear, but what about your data? Hopefully you know but too often you cannot because you don’t even know what all the columns mean in the first place. Can you be certain it is not not biased and do you have time to test it? 
 \
 \
 In the [infamous event of 2015](https://www.wsj.com/articles/BL-DGB-42522), Google built a classification model that classified African-Americans as gorillas. This was not the 
