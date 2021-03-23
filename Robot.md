@@ -7,7 +7,7 @@ subtitle:  Spare time project
 Explorer 
 
 ### Background
-I wanted to build a robot that can avoid obsticals, by using sensor
+I wanted to build a robot that can avoid obsticals, by using sensors
  
 
 ### Result
