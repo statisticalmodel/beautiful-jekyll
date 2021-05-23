@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About
 subtitle:  Data Scientist/Project Manager/Tireless Traveller
 ---
