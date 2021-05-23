@@ -1,78 +1,28 @@
 ---
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+layout: page
+title: About
+subtitle:  Data Scientist/Project Manager/Tireless Traveller
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+My name is Emelie Wahlström. I've been involved in several Datan Science projects both as Project Management and Data Scientist. I enojoy doing both hands-on and advisory work. I like solving business problems with Advanced Analytics & Machine Learning with focus on deliverable and business value. A project where I got to do both a PM and a DS was when developing a 12 week long Data Science course and then taking it online during Covid-19. I'm passionate about new technologies and love to travel.
 
 
-How about a yummy crepe?
+### My story
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
++ M.Sc in Statistics and Machine Learning, Linköping University
++ B.Sc in Statistics and Data Analysis, Linköping University
++ Industrial Engineering & Management - International M.Sc, Japanese
++ Exponentional Thinking, Singularity University, NASA Research Park, Silicon Valley
++ Certified - StyrelseAkademien Board Work
++ Certified - Elements of AI
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+### Experience
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
++ Technical Partner Enablement, Combient, Stockholm, Sweden
++ Data Scientist, Combient, Stockholm, Sweden
++ Credit Risk Analyst, Länsförsäkringar, Stockholm, Sweden 
++ Teacher Assistant, Linköping University, Linköping, Sweden
++ Chairman, board for the Statistics Program, Linköping, Sweden
++ Board Member, Institute of Data Analysis, Linköping University, Sweden
